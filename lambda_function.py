@@ -1,4 +1,4 @@
-import pandas as pd
+import openpyxl
 
 
 def lambda_handler(event, context):
